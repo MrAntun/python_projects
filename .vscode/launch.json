@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "rock-paper-scissors",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}\\src\\rock-paper-scissor.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "wilson's theroem",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}\\src\\wilsons_theroem.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
